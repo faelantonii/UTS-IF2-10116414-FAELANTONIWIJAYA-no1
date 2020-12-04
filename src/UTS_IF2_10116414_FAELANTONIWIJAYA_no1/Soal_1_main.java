@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Nama       : Fael Antoni Wijaya 
  * Kelas      : PBO2/IF 2 
  * Nim        : 10116414
- * Deskripsi  : Program mengenali tanda tanda kamu
+ * Deskripsi  : Program mengenali tanda tanda usia kamu
  */
 public class Soal_1_main {
     public static void main(String[] args) {
